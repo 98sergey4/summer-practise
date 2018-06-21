@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-
+//commit
 namespace kvadratnoye_lab2_tp
 {
     public partial class Form1 : Form
